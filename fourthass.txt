@@ -1,0 +1,10 @@
+Ans1==> main() { printf("Hello Students "); }
+Ans2==> main() { printf("Hello\nStudents "); }
+Ans3==> main() { printf("\"MySirG\""); }
+Ans4==> main() { printf("\"Teacher's Day\""); }
+Ans5==> main() { printf("\\n"); }
+Ans6==> main() { printf("%%d"); }
+Ans7==> main() { int i=5; char j='s';float f=24.5; printf("%d %c %f",i,j,f); }
+
+Ans9==> main() { int i; for(i=0;i<256;i++) printf("i = %d ",i);}
+Ans10==> main() { int 
